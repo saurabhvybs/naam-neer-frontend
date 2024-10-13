@@ -1,14 +1,9 @@
-import React from "react";
-import LeftSection from "../components/login-page/LeftSection";
-import RightSection from "../components/signup-page/RightSection";
+import React from 'react'
 
 function Signup() {
-   return (
-      <div className="flex min-h-screen">
-         <LeftSection />
-         <RightSection />
-      </div>
-   );
+  return (
+    <div>Signup</div>
+  )
 }
 
-export default Signup;
+export default Signup
